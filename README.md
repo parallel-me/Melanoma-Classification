@@ -1,4 +1,4 @@
-# Melanoma-Detection
+# Melanoma-Classification
 Detecting the presence of Melanoma using PCA, SVM without Neural Networks. 
 ---------Readme before running---------
 --------Instructions to run----------
